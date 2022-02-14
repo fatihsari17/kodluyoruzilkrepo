@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[gogole.com](https://www.google.com.tr/?hl=tr)
+[MIT](https://choosealicense.com/)
