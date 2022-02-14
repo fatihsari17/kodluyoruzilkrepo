@@ -10,8 +10,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ```bash
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+``` 
+2.deneme 
+```bash
+git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
-
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -27,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[MIT]()
+[gogole.com](https://www.google.com.tr/?hl=tr)
